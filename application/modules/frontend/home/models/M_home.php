@@ -16,6 +16,8 @@ class M_home extends CI_Model {
 	// 		return $sql->result_array();
 	// 	}
 	// }
+	//
+	//
 
 	public function getData()
 	{
