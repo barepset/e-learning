@@ -11,8 +11,8 @@
     </ol>
   </section>
   <?php
-   $judul         = "";
-   $deskripsi         = "";
+   $judul        = "";
+   $deskripsi    = "";
    $cover        = "cover";
 
     if ($ed == "update") {
