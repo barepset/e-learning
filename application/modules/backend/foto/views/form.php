@@ -18,8 +18,8 @@
     if ($ed == "update") {
      foreach ($sql->result() as $obj) {
        $judul       = $obj->judul;
-       $deskripsi       = $obj->deskripsi;
-       $cover      = $obj->cover;
+       $deskripsi   = $obj->deskripsi;
+       $cover       = $obj->cover;
      }
    }
 
